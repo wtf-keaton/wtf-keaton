@@ -1,16 +1,24 @@
-## Hi there 👋
+**Nikita Mazaev 22 y.o.**
+##### _Go and C++ Developer_
 
-<!--
-**wtf-keaton/wtf-keaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Languages: English (B1)
 
-Here are some ideas to get you started:
+💡 Currently working on: <a href="https://github.com/wtf-keaton/TextVault">TextVault</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Proficient in developing client-server applications
+- Expertise in microservices architecture
+- Skilled in designing and maintaining databases (SQL and NoSQL)
+- Experience with gRPC for efficient communication in distributed systems
+- Hands-on expertise in Kafka for real-time data streaming and messaging
+## Tools & Technologies
+- Operating Systems: Linux, Windows
+- Containerization: Docker
+## Programming Languages:
+- C/C++ (Boost, Userver)
+- Go (Gofiber, Gin, Echo)
+## Databases:
+- SQL: PostgreSQL, MySQL
+- NoSQL: MongoDB
+
+🚀 Always ready to tackle new challenges and contribute to innovative solutions!

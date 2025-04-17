@@ -1,4 +1,4 @@
-**Nikita Mazaev 22 y.o.**
+**Nikita Mazaev 23 y.o.**
 ##### _Go and C++ Developer_
 
 🌍 Languages: English (B1)

@@ -3,7 +3,7 @@
 
 🌍 Languages: English (B1)
 
-💡 Currently working on: <a href="https://github.com/wtf-keaton/TextVault">TextVault</a>
+💡 Currently working on: [Gorgo](https://github.com/GorgoFramework/gorgo)
 
 ## Skills
 - Proficient in developing client-server applications
